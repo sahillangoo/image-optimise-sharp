@@ -4,6 +4,10 @@
 	"description": "A basic image compressor using sharp",
 	"main": "index.js",
 	"type": "module",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/sahillangoo/image-optimise-sharp.git"
+	},
 	"scripts": {
 		"compress": "node index.mjs"
 	},

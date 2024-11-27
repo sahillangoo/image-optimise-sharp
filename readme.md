@@ -17,8 +17,8 @@ A basic image compressor using [sharp](https://sharp.pixelplumbing.com/).
 
 2. Clone the repository:
    ```sh
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/sahillangoo/image-optimise-sharp.git
+   cd image-optimise-sharp
    ```
 
 3. Install dependencies:
