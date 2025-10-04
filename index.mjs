@@ -27,9 +27,9 @@ const outputDir = path.resolve(process.cwd(), 'output');
 
 // Define image processing options
 const outputFormat = 'webp'; // can be 'png', 'jpg', 'webp', 'avif'
-const resizeWidth = null; // resize width, null or number= 1920
-const resizeHeight = null; // resize height, null or number = 1080
-const compressionQuality = 90; // compression quality, 0-100
+const resizeWidth = 1920; // resize width, null or number= 1920
+const resizeHeight = 1080; // resize height, null or number = 1080
+const compressionQuality = 82; // compression quality, 0-100
 const overwrite = true; // overwrite option, true or false
 
 // Additional options for webp and avif
